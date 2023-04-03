@@ -149,7 +149,6 @@ class Marketplace:
         :type cart_id: Int
         :param cart_id: id cart
         """
-        
         # Get the products from the cart
         products = self.carts[cart_id].get_products()
 
