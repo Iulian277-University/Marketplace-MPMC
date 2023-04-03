@@ -1,12 +1,8 @@
 """
 This module represents the Marketplace.
-
-Computer Systems Architecture Course
-Assignment 1
-March 2021
 """
 
-from threading import Lock, currentThread
+from threading import Lock
 from .cart import Cart
 
 class Marketplace:
@@ -30,13 +26,12 @@ class Marketplace:
         self.producer_num_products = {} # {producer_id: num_products}
         self.product_to_producer = {} # {product: producer_id} (inverse mapping)
 
-        self.carts = {} # {cart_id: [product1, product2, ...]}
+        self.carts = {} # {cart_id: Cart()}
         self.num_carts = 0 # Number of carts in the marketplace
 
         self.register_producer_lock = Lock() # Lock for `register_producer()` method
         self.new_cart_lock = Lock() # Lock for `new_cart()` method
         self.add_to_cart_lock = Lock() # Lock for `add_to_cart()` method
-        self.place_order_lock = Lock() # Lock for `place_order()` method
 
     def register_producer(self):
         """
@@ -150,12 +145,4 @@ class Marketplace:
         :param cart_id: id cart
         """
         # Get the products from the cart
-        products = self.carts[cart_id].get_products()
-
-        # Print the order
-        for product in products:
-            with self.place_order_lock:
-                name = str(currentThread().getName())
-                print(f"{name} bought {product}")
-
-        return products
+        return self.carts[cart_id].get_products()

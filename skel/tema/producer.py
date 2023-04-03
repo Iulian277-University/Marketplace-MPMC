@@ -1,9 +1,5 @@
 """
 This module represents the Producer.
-
-Computer Systems Architecture Course
-Assignment 1
-March 2021
 """
 
 from threading import Thread

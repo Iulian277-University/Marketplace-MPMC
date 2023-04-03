@@ -1,12 +1,8 @@
 """
 This module represents the Consumer.
-
-Computer Systems Architecture Course
-Assignment 1
-March 2021
 """
 
-from threading import Thread
+from threading import Thread, Lock
 from time import sleep
 
 class Consumer(Thread):
@@ -36,6 +32,7 @@ class Consumer(Thread):
         self.marketplace = marketplace # Marketplace reference
         self.retry_wait_time = retry_wait_time # Time to wait before retrying an operation
         self.name = kwargs['name'] # Consumer name
+        self.print_lock = Lock() # Lock for thread safe printing
 
     def run(self):
         def perform_op(operation):
@@ -67,4 +64,9 @@ class Consumer(Thread):
             _ = [perform_op(op) for op in cart]
 
             # After all operations are performed, the `Consumer` checks out
-            self.marketplace.place_order(cart_id)
+            products = self.marketplace.place_order(cart_id)
+
+            # Print the products in the cart
+            for product in products:
+                with self.print_lock:
+                    print(f'{self.name} bought {product}', flush=True)
