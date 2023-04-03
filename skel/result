@@ -106,11 +106,13 @@ pylintrc:1:0: W0012: Unknown option value for '--disable', expected a valid pyli
 pylintrc:1:0: W0012: Unknown option value for '--disable', expected a valid pylint message and got 'old-octal-literal' (unknown-option-value)
 pylintrc:1:0: W0012: Unknown option value for '--disable', expected a valid pylint message and got 'non-ascii-bytes-literal' (unknown-option-value)
 pylintrc:1:0: W0012: Unknown option value for '--disable', expected a valid pylint message and got 'eq-without-hash' (unknown-option-value)
-************* Module consumer
-tema/consumer.py:69:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module logger
+tema/logger.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
 ************* Module marketplace
-tema/marketplace.py:10:0: E0402: Attempted relative import beyond top-level package (relative-beyond-top-level)
+tema/marketplace.py:6:0: E0402: Attempted relative import beyond top-level package (relative-beyond-top-level)
+tema/marketplace.py:7:0: E0402: Attempted relative import beyond top-level package (relative-beyond-top-level)
+tema/marketplace.py:9:0: R0902: Too many instance attributes (11/10) (too-many-instance-attributes)
 
 ------------------------------------------------------------------
-Your code has been rated at 9.45/10 (previous run: 8.99/10, +0.46)
+Your code has been rated at 9.17/10 (previous run: 9.24/10, -0.07)
 
