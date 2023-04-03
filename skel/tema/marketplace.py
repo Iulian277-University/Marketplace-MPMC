@@ -7,13 +7,14 @@ March 2021
 """
 
 from threading import Lock, currentThread
+from .cart import Cart
 
 class Marketplace:
     """
     Class that represents the Marketplace. It's the central part of the implementation.
     The producers and consumers use its methods concurrently.
     """
-    
+
     def __init__(self, queue_size_per_producer):
         """
         Constructor
@@ -22,13 +23,13 @@ class Marketplace:
         :param queue_size_per_producer: the maximum size of a queue associated with each producer
         """
         self.queue_size_per_producer = queue_size_per_producer # Maximum queue size per producer
-        
+
         self.producers = [] # List of producer IDs
         self.products = [] # List of products in the marketplace
-        
+
         self.producer_num_products = {} # {producer_id: num_products}
         self.product_to_producer = {} # {product: producer_id} (inverse mapping)
-        
+
         self.carts = {} # {cart_id: [product1, product2, ...]}
         self.num_carts = 0 # Number of carts in the marketplace
 
@@ -42,7 +43,8 @@ class Marketplace:
         Returns an id for the producer that calls this.
         """
         with self.register_producer_lock:
-            _ = [self.producers.append(0) if not self.producers else self.producers.append(self.producers[-1] + 1)]
+            _ = [self.producers.append(0) if not self.producers else \
+                    self.producers.append(self.producers[-1] + 1)]
         return self.producers[-1]
 
     def publish(self, producer_id, product):
@@ -85,7 +87,7 @@ class Marketplace:
             self.num_carts += 1
 
             # Create a new cart
-            self.carts[self.num_carts] = []
+            self.carts[self.num_carts] = Cart()
 
         # Return the cart id
         return self.num_carts
@@ -107,15 +109,18 @@ class Marketplace:
             if product not in self.products:
                 return False
 
+            # Get the producer id for the product
+            producer_id = self.product_to_producer[product]
+
             # Decrease the number of products for the producer
-            self.producer_num_products[self.product_to_producer[product]] -= 1
+            self.producer_num_products[producer_id] -= 1
 
             # Add the product to the cart
-            self.carts[cart_id].append(product)
+            self.carts[cart_id].add_product(product, producer_id)
 
             # Remove the product from the marketplace
             self.products.remove(product)
-        
+
         return True
 
     def remove_from_cart(self, cart_id, product):
@@ -128,9 +133,9 @@ class Marketplace:
         :type product: Product
         :param product: the product to remove from cart
         """
-        # Remove from `cart_id` 
-        self.carts[cart_id].remove(product)
-        
+        # Remove from `cart_id`
+        self.carts[cart_id].remove_product(product)
+
         # Make the product available again in the marketplace
         self.products.append(product)
 
@@ -146,7 +151,7 @@ class Marketplace:
         """
         
         # Get the products from the cart
-        products = self.carts[cart_id]
+        products = self.carts[cart_id].get_products()
 
         # Print the order
         for product in products:

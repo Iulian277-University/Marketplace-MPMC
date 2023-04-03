@@ -38,23 +38,33 @@ class Consumer(Thread):
         self.name = kwargs['name'] # Consumer name
 
     def run(self):
+        def perform_op(operation):
+            """
+            Perform an operation on the cart.
+
+            :type op: Dict
+            :param op: the operation to perform
+
+            :rtype: None
+            """
+            # Unpack the operation in `type_`, `product` and `quantity`
+            type_, product, quantity = operation.values()
+
+            # Perform the operation `quantity` times
+            for _ in range(quantity):
+                if type_ == 'add':
+                    # Wait until the Marketplace signals that the `Consumer` can add to cart
+                    while not self.marketplace.add_to_cart(cart_id, product):
+                        sleep(self.retry_wait_time)
+                elif type_ == 'remove':
+                    self.marketplace.remove_from_cart(cart_id, product)
+
         for cart in self.carts:
             # Create a new `cart_id`
             cart_id = self.marketplace.new_cart()
 
-            # Add/Remove products to/from the cart
-            for op in cart:
-                # Unpack the operation in `type_`, `product` and `quantity`
-                type_, product, quantity = op.values()
-
-                # Perform the operation `quantity` times
-                for _ in range(quantity):
-                    if type_ == 'add':
-                        # Wait until the Marketplace signals that the `Consumer` can add to cart
-                        while not self.marketplace.add_to_cart(cart_id, product):
-                            sleep(self.retry_wait_time)
-                    elif type_ == 'remove':
-                        self.marketplace.remove_from_cart(cart_id, product)
+            # Perform all operations on the cart
+            _ = [perform_op(op) for op in cart]
 
             # After all operations are performed, the `Consumer` checks out
-            products = self.marketplace.place_order(cart_id)
+            self.marketplace.place_order(cart_id)
