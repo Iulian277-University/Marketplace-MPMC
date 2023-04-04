@@ -1,0 +1,671 @@
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:34] [X] Product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:34] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 5
+[2023-04-04 08:53:34] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:34] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:34] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:34] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:34] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:34] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:34] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:35] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:35] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:35] [X] Product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 1
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 5
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:35] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 5
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 1
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 5
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 4
+[2023-04-04 08:53:35] [?] Placing order for cart 4
+[2023-04-04 08:53:35] [W] Placed order for cart 4
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:35] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 1
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 5
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:35] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:35] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:35] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 5
+[2023-04-04 08:53:36] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 5
+[2023-04-04 08:53:36] [?] Placing order for cart 5
+[2023-04-04 08:53:36] [W] Placed order for cart 5
+[2023-04-04 08:53:36] [?] Creating a new cart
+[2023-04-04 08:53:36] [W] Cart 7 created
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:36] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:36] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:36] [?] Placing order for cart 7
+[2023-04-04 08:53:36] [W] Placed order for cart 7
+[2023-04-04 08:53:36] [?] Creating a new cart
+[2023-04-04 08:53:36] [W] Cart 8 created
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:36] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:36] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:36] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 1
+[2023-04-04 08:53:36] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:36] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:36] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 1
+[2023-04-04 08:53:36] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 1
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:36] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:36] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 6
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:36] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:36] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:36] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:36] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:36] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:36] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:37] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:37] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:37] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:37] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:37] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:37] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:37] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 8
+[2023-04-04 08:53:37] [?] Placing order for cart 8
+[2023-04-04 08:53:37] [W] Placed order for cart 8
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:37] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:37] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 6
+[2023-04-04 08:53:37] [?] Placing order for cart 6
+[2023-04-04 08:53:37] [W] Placed order for cart 6
+[2023-04-04 08:53:37] [?] Creating a new cart
+[2023-04-04 08:53:37] [W] Cart 9 created
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [W] Added Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:37] [?] Placing order for cart 9
+[2023-04-04 08:53:37] [W] Placed order for cart 9
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:37] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:37] [?] Removing Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [W] Removed Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [?] Removing Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [W] Removed Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [?] Removing Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [W] Removed Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [?] Removing Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [W] Removed Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [?] Removing Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [W] Removed Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 3
+[2023-04-04 08:53:37] [?] Placing order for cart 3
+[2023-04-04 08:53:37] [W] Placed order for cart 3
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:37] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:37] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:37] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:37] [?] Placing order for cart 1
+[2023-04-04 08:53:37] [W] Placed order for cart 1
+[2023-04-04 08:53:37] [?] Creating a new cart
+[2023-04-04 08:53:37] [W] Cart 10 created
+[2023-04-04 08:53:37] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 10
+[2023-04-04 08:53:37] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 10
+[2023-04-04 08:53:37] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:37] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 10
+[2023-04-04 08:53:38] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 10
+[2023-04-04 08:53:38] [?] Placing order for cart 10
+[2023-04-04 08:53:38] [W] Placed order for cart 10
+[2023-04-04 08:53:38] [?] Creating a new cart
+[2023-04-04 08:53:38] [W] Cart 11 created
+[2023-04-04 08:53:38] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [X] Product Tea(name='Cactus fig', price=3, type='Green') not in marketplace
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Tea(name='Cactus fig', price=3, type='Green')
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 2 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 2 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 0 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 0 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Producer 1 is trying to publish Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [W] Producer 1 successfully published Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:38] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [?] Adding Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [W] Added Tea(name='Cactus fig', price=3, type='Green') to cart 11
+[2023-04-04 08:53:38] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 11
+[2023-04-04 08:53:38] [?] Removing Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 11
+[2023-04-04 08:53:38] [W] Removed Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from cart 11
+[2023-04-04 08:53:38] [?] Placing order for cart 11
+[2023-04-04 08:53:38] [W] Placed order for cart 11
+[2023-04-04 08:53:38] Marketplace created
+[2023-04-04 08:53:38] [?] Registering producer
+[2023-04-04 08:53:38] [W] Producer 0 registered
+[2023-04-04 08:53:38] [?] Registering producer
+[2023-04-04 08:53:38] [W] Producer 1 registered
+[2023-04-04 08:53:38] [?] Registering producer
+[2023-04-04 08:53:38] [W] Producer 2 registered
+[2023-04-04 08:53:38] [?] Registering producer
+[2023-04-04 08:53:38] [W] Producer 3 registered
+[2023-04-04 08:53:38] [?] Registering producer
+[2023-04-04 08:53:38] [W] Producer 4 registered
+[2023-04-04 08:53:38] [?] Creating a new cart
+[2023-04-04 08:53:38] [W] Cart 1 created
+[2023-04-04 08:53:38] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:38] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:38] [?] Creating a new cart
+[2023-04-04 08:53:38] [W] Cart 2 created
+[2023-04-04 08:53:38] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:38] [X] Product Tea(name='Wild Cherry', price=5, type='Black') not in marketplace
+[2023-04-04 08:53:38] [?] Creating a new cart
+[2023-04-04 08:53:38] [W] Cart 3 created
+[2023-04-04 08:53:38] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 3
+[2023-04-04 08:53:38] [?] Creating a new cart
+[2023-04-04 08:53:38] [X] Product Tea(name='Wild Cherry', price=5, type='Black') not in marketplace
+[2023-04-04 08:53:38] [W] Cart 4 created
+[2023-04-04 08:53:38] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 4
+[2023-04-04 08:53:38] [?] Creating a new cart
+[2023-04-04 08:53:38] [X] Product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:38] [W] Cart 5 created
+[2023-04-04 08:53:38] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 5
+[2023-04-04 08:53:38] [X] Product Tea(name='Wild Cherry', price=5, type='Black') not in marketplace
+[2023-04-04 08:53:38] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 5
+[2023-04-04 08:53:38] [X] Product Tea(name='Wild Cherry', price=5, type='Black') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 1 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 1 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 1 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 1 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 5
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 5
+[2023-04-04 08:53:39] [?] Removing Tea(name='Wild Cherry', price=5, type='Black') from cart 5
+[2023-04-04 08:53:39] [W] Removed Tea(name='Wild Cherry', price=5, type='Black') from cart 5
+[2023-04-04 08:53:39] [?] Placing order for cart 5
+[2023-04-04 08:53:39] [W] Placed order for cart 5
+[2023-04-04 08:53:39] [?] Creating a new cart
+[2023-04-04 08:53:39] [W] Cart 6 created
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 6
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 6
+[2023-04-04 08:53:39] [?] Placing order for cart 6
+[2023-04-04 08:53:39] [W] Placed order for cart 6
+[2023-04-04 08:53:39] [?] Creating a new cart
+[2023-04-04 08:53:39] [W] Cart 7 created
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 4 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 4 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 4 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 4 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 2 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 2 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 2 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 2 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 2
+[2023-04-04 08:53:39] [?] Removing Tea(name='Wild Cherry', price=5, type='Black') from cart 2
+[2023-04-04 08:53:39] [W] Removed Tea(name='Wild Cherry', price=5, type='Black') from cart 2
+[2023-04-04 08:53:39] [?] Placing order for cart 2
+[2023-04-04 08:53:39] [W] Placed order for cart 2
+[2023-04-04 08:53:39] [?] Creating a new cart
+[2023-04-04 08:53:39] [W] Cart 8 created
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 4
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 4
+[2023-04-04 08:53:39] [?] Placing order for cart 4
+[2023-04-04 08:53:39] [W] Placed order for cart 4
+[2023-04-04 08:53:39] [?] Creating a new cart
+[2023-04-04 08:53:39] [W] Cart 9 created
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 3 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 3 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 3
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 3
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 3
+[2023-04-04 08:53:39] [X] Product Tea(name='Wild Cherry', price=5, type='Black') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 0 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 0 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 1 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 4 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 1 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 4 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 4 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 4 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 2 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 2 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 2 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 2 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 2 is trying to publish Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 2 successfully published Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 8
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 8
+[2023-04-04 08:53:39] [X] Product Tea(name='Wild Cherry', price=5, type='Black') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 7
+[2023-04-04 08:53:39] [?] Placing order for cart 7
+[2023-04-04 08:53:39] [W] Placed order for cart 7
+[2023-04-04 08:53:39] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 0 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 0 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Producer 1 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 1 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 1 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 1 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:39] [W] Added Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 4 is trying to publish Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [W] Producer 4 successfully published Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 9
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 1
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Producer 2 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 2 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 2 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 2 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 3 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 3 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 3 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 3 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 3 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 3 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 4 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 4 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Producer 4 is trying to publish Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [W] Producer 4 successfully published Tea(name='Wild Cherry', price=5, type='Black')
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 3
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 3
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [W] Added Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') to cart 3
+[2023-04-04 08:53:39] [X] Product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') not in marketplace
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 8
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 8
+[2023-04-04 08:53:39] [?] Adding Tea(name='Wild Cherry', price=5, type='Black') to cart 8
+[2023-04-04 08:53:39] [W] Added Tea(name='Wild Cherry', price=5, type='Black') to cart 8
+[2023-04-04 08:53:39] [?] Placing order for cart 8
+[2023-04-04 08:53:39] [W] Placed order for cart 8
+[2023-04-04 08:53:39] [?] Creating a new cart
+[2023-04-04 08:53:39] [W] Cart 10 created
+[2023-04-04 08:53:39] [?] Adding Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') to cart 10
+[2023-04-04 08:53:39] [X] Product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') not in marketplace
