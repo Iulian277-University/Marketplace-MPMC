@@ -2,9 +2,16 @@
 This module represents the Marketplace.
 """
 
+# The `try-except` blocks are used to support both `unit testing` and `functional testing`
 from threading import Lock
-from .logger import Logger
-from .cart import Cart
+try:
+    from .logger import Logger
+except ImportError:
+    from logger import Logger
+try:
+    from .cart import Cart
+except ImportError:
+    from cart import Cart
 
 class Marketplace:
     """
@@ -64,7 +71,7 @@ class Marketplace:
         :returns True or False. If the caller receives False, it should wait and then try again.
         """
         # Log the input parameters
-        self.logger.log(f'[?] Producer {producer_id} is trying to publish {product}...')
+        self.logger.log(f'[?] Producer {producer_id} is trying to publish {product}')
 
         # Check if the producer has reached the maximum number of products
         producer_id = int(producer_id)
@@ -125,6 +132,12 @@ class Marketplace:
 
             # Check if the product is in the marketplace
             if product not in self.products:
+                self.logger.log(f'[X] Product {product} not in marketplace')
+                return False
+
+            # Check if the cart is created
+            if cart_id not in self.carts:
+                self.logger.log(f'[X] Cart {cart_id} not created yet')
                 return False
 
             # Get the producer id for the product
@@ -157,6 +170,16 @@ class Marketplace:
         # Log the input parameters
         self.logger.log(f'[?] Removing {product} from cart {cart_id}')
 
+        # Check if the cart is created
+        if cart_id not in self.carts:
+            self.logger.log(f'[X] Cart {cart_id} not created yet')
+            return False
+
+        # Check if the product is in the cart
+        if product not in self.carts[cart_id].get_products():
+            self.logger.log(f'[X] Product {product} not in cart {cart_id}')
+            return False
+
         # Remove from `cart_id`
         self.carts[cart_id].remove_product(product)
 
@@ -169,6 +192,8 @@ class Marketplace:
         # Log the results
         self.logger.log(f'[W] Removed {product} from cart {cart_id}')
 
+        return True
+
     def place_order(self, cart_id):
         """
         Return a list with all the products in the cart.
@@ -178,6 +203,11 @@ class Marketplace:
         """
         # Log the input parameters
         self.logger.log(f'[?] Placing order for cart {cart_id}')
+
+        # Check if the `cart_id` is valid
+        if cart_id not in self.carts:
+            self.logger.log(f'[X] Cart {cart_id} not created yet')
+            return False
 
         # Get the products from the cart
         products = self.carts[cart_id].get_products()
