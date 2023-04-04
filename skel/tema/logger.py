@@ -37,7 +37,7 @@ class Logger:
         Logs a message.
         """
         self.logger.info(msg)
-        
+
     @staticmethod
     def disable():
         """

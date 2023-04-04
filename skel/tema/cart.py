@@ -25,8 +25,8 @@ class Cart:
 
         """
         self.products.append({
-            "product": product,
-            "producer_id": producer_id
+            'product': product,
+            'producer_id': producer_id
         })
 
     def remove_product(self, product):
